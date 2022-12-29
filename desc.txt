@@ -1,1 +1,1 @@
-This is a repositort containing major codes that are given in the coding ninjas dsa course
+This is a repository containing major codes that are given in the coding ninjas dsa course. It contains solutions to major problems that I solved while learningdata structures and algorithms
